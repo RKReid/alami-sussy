@@ -4,4 +4,7 @@
 .cockbackground {
 background-image: url('images/rooster-Rhode-Island-Red-roosters-chicken-domestication.jpg');
   background-size: 100%;
+  border: 10px solid black;
+  width: 400px;
+  height: 400px;
 }
