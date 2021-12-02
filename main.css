@@ -9,3 +9,12 @@ background-image: url('images/rooster-Rhode-Island-Red-roosters-chicken-domestic
   width: 400px;
   height: 400px;
 }
+.alamihead {
+  animation: alamihead;
+  width: 200px;
+}
+@keyframes alamihead {
+  0%{left: 0px;}
+  50%{left: 1000px;}
+  100%{left: 0px;}
+}
